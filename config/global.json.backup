@@ -1,0 +1,6 @@
+{
+    "applicationName" : "your name",
+    "appId": "your appId",
+    "appKey": "your appKey",
+    "masterKey":"your masterKey"
+}
